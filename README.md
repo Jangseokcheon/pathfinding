@@ -32,7 +32,7 @@ Dynamix을 이용해 호텔 서비스 로봇을 제작하고 Java 기반의 웹�
 https://youtu.be/NXHmEm0RPJ4
 ![구동영상](https://user-images.githubusercontent.com/86651809/168182858-f9d4e4ed-2b60-4e79-9b6c-3dd1c67ca7b1.JPG)
 
-## 6. 길찾기
+## 6. 길찾기 알고리즘 (A* 알고리즘)
 
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\bits
 에 stdc++.h 파일 넣으면 여러 
