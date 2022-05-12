@@ -60,3 +60,27 @@ subsciriver 와 publish 표시
 
 색으로 완료한 기능 표시 (예 파랑은 완성된 기능 노랑은 다음에 만들 기능 빨강은 나중에 만들 기능)
 
+
+## v-3
+
+### 수정사항
+블럭도에 subsciriver 와 publish 표시
+색으로 진행사항 쵸시 
+노드 추가
+
+![모델4](https://user-images.githubusercontent.com/86651809/168063861-c345e8fc-1a88-454f-9cbf-a84cf0267ab7.JPG)
+
+## 6주차 교수님의 피드백 내용
+
+Ros host와 master 관련 ip주소 적어주기
+
+## v-4
+
+### 수정사항
+Ros host와 master 관련 ip주소 적어주기
+완성된 기능 파란색 추가
+
+![모델5](https://user-images.githubusercontent.com/86651809/168065864-6ffc0cc6-0cd4-4759-af1b-f0115c2b0b7f.JPG)
+
+## 6주차 교수님의 피드백 내용
+
