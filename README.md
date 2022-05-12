@@ -1,7 +1,6 @@
 # pathfinding
 
 블럭도 버전
--------------
 
 ## v-0
 
@@ -82,5 +81,29 @@ Ros host와 master 관련 ip주소 적어주기
 
 ![모델5](https://user-images.githubusercontent.com/86651809/168065864-6ffc0cc6-0cd4-4759-af1b-f0115c2b0b7f.JPG)
 
-## 6주차 교수님의 피드백 내용
+## 7주차 교수님의 피드백 내용
 
+없음
+
+## v-5
+
+### 수정사항
+팀원간의 깃 협업 공간 생성 
+
+![git](https://user-images.githubusercontent.com/86651809/168180682-60dd5e6b-bf6b-4137-b0e2-9584c2f4d104.png)
+
+## 9주차 교수님의 피드백 내용
+
+깃 활용 추천
+
+## v-6
+
+### 수정사항
+ROS 환경에서 돌아갈 길찾기 알고리즘 테스트
+
+![astar](https://user-images.githubusercontent.com/86651809/168180958-9062496e-9b5b-4d4b-86d1-80e086d134af.png)
+
+
+## 10주차 교수님의 피드백 내용
+
+깃에 블럭도 및 수정사항 기재 요청
