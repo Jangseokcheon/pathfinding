@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/86651809/167984348-27cc78f7-30a7-4d58-95e0-7f9b458f88f1.png)
 
 #SLAM
-Uploading 미디어1.mp4…
+https://youtu.be/NXHmEm0RPJ4
 
 #길찾기
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\bits
