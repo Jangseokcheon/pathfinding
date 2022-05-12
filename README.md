@@ -16,9 +16,9 @@
 
 ### 수정사항
 
-*로봇에 사용할 하드웨어 플렛폼 작성(Jetson Xavier)   
-*web관련 블럭도 제거 및 수정   
-*작품 사진 첨부   
+* 로봇에 사용할 하드웨어 플렛폼 작성(Jetson Xavier)   
+* web관련 블럭도 제거 및 수정   
+* 작품 사진 첨부   
 
 ![모델2](https://user-images.githubusercontent.com/86651809/168053988-410f9912-c7b6-450a-a028-ebb65804f97e.JPG)
 
