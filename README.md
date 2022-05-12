@@ -1,6 +1,6 @@
-# pathfinding
+#  PathFinding
 
-블럭도 버전
++ 블럭도 버전
 
 ## v-0
 
