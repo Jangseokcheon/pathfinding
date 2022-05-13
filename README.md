@@ -1,7 +1,7 @@
 # 호텔 서비스 로봇
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseokcheon&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangseokcheon&layout=compact&theme=dracula)](https://github.com/Jangseokcheon/pathfinding/edit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangseokcheon&layout=compact&theme=dracula)](https://github.com/Jangseokcheon/pathfinding/edit/footer)
 
 ## 1. 주제 개요
 
