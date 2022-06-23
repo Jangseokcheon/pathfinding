@@ -29,7 +29,7 @@
 ## 3. 최종 목표
 
 * 하드웨어
-* * Dynamixel과Jetson_Xavier Board를 기반으로 Rp_Lidar_Senser를 이용해 자동으로 목표지점까지 이동하는 호텔 서비스 로봇을 제작. 
+ * Dynamixel과Jetson_Xavier Board를 기반으로 Rp_Lidar_Senser를 이용해 자동으로 목표지점까지 이동하는 호텔 서비스 로봇을 제작. 
 * 호텔 서비스 로봇은 라이더 센서와 ROS를 이용하여 자체적으로 사용자가 원하는 위치로 장애물을 회피하고 최단거리로 물건이나 식품을 배달 할 수 있습니다.
 
 
