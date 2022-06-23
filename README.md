@@ -63,7 +63,9 @@ using namespace std;
  map2.txt는 맵 파일(텍스트) 0은 길 1은 벽 2는 출발지 3은 도착지
  
 ## 수정사항
- 현재 버전 V-10
+ 
+ [현재 버전 V-10](https://github.com/Jangseokcheon/pathfinding/blob/footer/README.md)
+ 
 ## 팀원
  
  * [고신엽](https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red)
