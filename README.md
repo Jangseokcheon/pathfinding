@@ -64,7 +64,7 @@ using namespace std;
  
 ## 수정 사항
  
- [V-6](https://github.com/Jangseokcheon/pathfinding/blob/footer/README.md)
+ * [V-6](https://github.com/Jangseokcheon/pathfinding/blob/footer/README.md)
  
 ## 팀원
  
