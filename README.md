@@ -1,8 +1,5 @@
 # 호텔 서비스 로봇
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseokcheon&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
-
 ## 1. 주제 개요
 
 코로나로 인해 음식점과 같이 사람들간의 접촉이 필요한 시설에 대한 불안감이 커지면서 사람들간의 직접적인 교류가 힘들어 지고 배달 사업의 규모가 커지고 있는데 이를 해결할 방법으로 언택트 사업이 각광 받고 있는 이 시점에 음식점과 사람과의 접촉을 획기적으로 줄일 수 있는 호텔 서비스 로봇은 코로나 시대에 꼭 필요한 작품일 것입니다.
