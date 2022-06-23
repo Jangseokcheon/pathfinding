@@ -59,7 +59,11 @@ using namespace std;
 
  ![image](https://user-images.githubusercontent.com/86651809/166835749-57b852b7-eff5-48be-adc5-5f8aa59d3883.png)
  
-  
-  
+ 
  map2.txt는 맵 파일(텍스트) 0은 길 1은 벽 2는 출발지 3은 도착지
+ 
+ ## 팀원
+ 
+ * [고신엽](https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red)
+ * [이승헌](https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red)
   
