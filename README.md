@@ -68,6 +68,6 @@ using namespace std;
  
 ## 팀원
  
- * [고신엽](https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red)
- * [이승헌](https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red)
+ * [고신엽]([https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red](https://github.com/sinyeopgo/capstone-design))
+ * [이승헌]([https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red](https://github.com/SeungHeon3649/ros-controller))
   
