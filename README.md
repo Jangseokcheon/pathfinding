@@ -70,4 +70,5 @@ using namespace std;
  
  * [고신엽]([https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red](https://github.com/sinyeopgo/capstone-design))
  * [이승헌]([https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red](https://github.com/SeungHeon3649/ros-controller))
+ * [장석천](https://github.com/Jangseokcheon/pathfinding)
   
