@@ -1,6 +1,6 @@
 # 현재 구현된 기술들
 
-## [LAM](https://youtu.be/NXHmEm0RPJ4)
+[SLAM](https://youtu.be/NXHmEm0RPJ4)
 
 ![구동영상](https://user-images.githubusercontent.com/86651809/168182858-f9d4e4ed-2b60-4e79-9b6c-3dd1c67ca7b1.JPG)
 
