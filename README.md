@@ -23,6 +23,10 @@ using namespace std;
  
  map2.txt는 맵 파일(텍스트) 0은 길 1은 벽 2는 출발지 3은 도착지
  
+ 
+ ##
+ https://www.youtube.com/watch?v=Ot3r9NmQzZc
+ 
 ## AMCL Node 알고리즘
 
 lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘 
