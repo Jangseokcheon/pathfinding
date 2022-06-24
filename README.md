@@ -48,7 +48,8 @@
 * 길찾기 알고리즘 (A*알고리즘)
 * AMCL Node
 * MoveBase Node
-* gazebo simulation을 이용한 목표점 이동
+* Gazebo Simulation을 이용한 목표점 이동
+* Turtlesim을 이용한 목표점 이동
  
 ## [수정 내역](https://github.com/Jangseokcheon/pathfinding/blob/footer/README.md)
  
