@@ -28,11 +28,9 @@ using namespace std;
 lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘 
 
   - 초기  
-<figure class="third">
-    <img src="https://user-images.githubusercontent.com/94602114/175321758-4bb87b78-14c9-4028-9af3-bc452ef81cc8.png">
-    <img src="https://user-images.githubusercontent.com/94602114/175321758-4bb87b78-14c9-4028-9af3-bc452ef81cc8.png">
-    <img src="[http://zzz.jpg](https://user-images.githubusercontent.com/94602114/175321758-4bb87b78-14c9-4028-9af3-bc452ef81cc8.png)">
-figure>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94602114/175321758-4bb87b78-14c9-4028-9af3-bc452ef81cc8.png"/>
+</p>
 ![스크린샷, 2022-06-23 23-19-08](https://user-images.githubusercontent.com/94602114/175321758-4bb87b78-14c9-4028-9af3-bc452ef81cc8.png)
   - amcl 알고리즘 후  
 ![스크린샷, 2022-06-23 23-27-06](https://user-images.githubusercontent.com/94602114/175323423-8b2a0eca-ac7f-465e-9346-e68d694dab4e.png)
