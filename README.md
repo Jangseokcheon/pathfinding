@@ -27,7 +27,7 @@ using namespace std;
 
 lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘 
 
-  - 초기  ● amcl 알고리즘 후  
+  - 초기                                                               ● amcl 알고리즘 후  
 <p align="third">
   <img src="https://user-images.githubusercontent.com/94602114/175321758-4bb87b78-14c9-4028-9af3-bc452ef81cc8.png" width="400" height="400"/>
   <img src="https://user-images.githubusercontent.com/94602114/175323423-8b2a0eca-ac7f-465e-9346-e68d694dab4e.png" width="400" height="400"/>
