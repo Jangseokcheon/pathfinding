@@ -1,8 +1,7 @@
 # 현재 구현된 기술들
 
-## SLAM
+## [LAM](https://youtu.be/NXHmEm0RPJ4)
 
-## https://youtu.be/NXHmEm0RPJ4
 ![구동영상](https://user-images.githubusercontent.com/86651809/168182858-f9d4e4ed-2b60-4e79-9b6c-3dd1c67ca7b1.JPG)
 
 ## 길찾기 알고리즘 (A* 알고리즘)
