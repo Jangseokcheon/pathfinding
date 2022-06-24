@@ -58,7 +58,11 @@
  
 ## [수정 내역](https://github.com/Jangseokcheon/pathfinding/blob/footer/README.md)
  
- * 2022-04-12 / V-1
+ * V-0 / 20220311 
+ * V-1 / 20220318
+ * 2022-03-28 / V-2
+ * 2022-04-04 / V-3
+ * 2022-04-12 / V-2
  * V-8
  
 ## 팀원
