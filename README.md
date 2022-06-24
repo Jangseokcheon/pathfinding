@@ -136,8 +136,8 @@ https://user-images.githubusercontent.com/94602114/175331810-7e71c63e-b27f-4f9e-
 
 ### 수정사항
 
-*  AMCL Node 알고리즘 (lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘)
-*  MoveBase Node 알고리즘 (목표값(goal)을 주면 로봇이 갈 길을 찾고 모터제어명령을 내리는 알고리즘)
+*  AMCL Node 알고리즘 추가(lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘)
+*  MoveBase Node 알고리즘 추가(목표값(goal)을 주면 로봇이 갈 길을 찾고 모터제어명령을 내리는 알고리즘)
 
   - 초기  
 ![스크린샷, 2022-06-23 23-19-08](https://user-images.githubusercontent.com/94602114/175321758-4bb87b78-14c9-4028-9af3-bc452ef81cc8.png)
