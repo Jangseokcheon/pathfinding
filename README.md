@@ -14,10 +14,11 @@
 
 * Jetson_Xavier
 * Lidar_Senser
+* Dynmixel
+* Imu
 * Ros
 * Slam
-* Imu
-* Dynmixel
+
 
 ## 주제 수행 내용
 
