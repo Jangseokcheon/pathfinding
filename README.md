@@ -43,12 +43,12 @@
 ### navigation node Block Diagram  
 ![image](https://user-images.githubusercontent.com/94602114/175333138-0412e1da-08a6-404e-8b5b-cf6c49e9353e.png)  
 
-## [구현 상황](https://github.com/Jangseokcheon/pathfinding/blob/master/README.md)
+## [현재 구현 상황](https://github.com/Jangseokcheon/pathfinding/blob/master/README.md)
 * SLAM
 * 길찾기 알고리즘 (A*알고리즘)
 * AMCL Node
 * MoveBase Node
-* 
+* gazebo simulation을 이용한 목표점 이동
  
 ## [수정 내역](https://github.com/Jangseokcheon/pathfinding/blob/footer/README.md)
  
