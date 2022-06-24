@@ -58,7 +58,8 @@
  
 ## [수정 내역](https://github.com/Jangseokcheon/pathfinding/blob/footer/README.md)
  
- * 마지막 수정일 2022-06-22 / V-8
+ * 마지막 수정일 
+   * 2022-06-22 / V-8
  
 ## 팀원
  
