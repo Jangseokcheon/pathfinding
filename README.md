@@ -32,7 +32,7 @@ lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알
   - amcl 알고리즘 후  
 ![스크린샷, 2022-06-23 23-27-06](https://user-images.githubusercontent.com/94602114/175323423-8b2a0eca-ac7f-465e-9346-e68d694dab4e.png)
 
-## MoveBase Node 알고리즘
+## [MoveBase Node 알고리즘](https://youtu.be/1NEKSqXpm4c)
 
 목표값(goal)을 주면 로봇이 갈 길을 찾고 모터제어명령을 내리는 알고리즘
 
