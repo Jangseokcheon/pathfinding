@@ -37,7 +37,11 @@
 
 ## 블록도
 
-![모델5](https://user-images.githubusercontent.com/86651809/168182709-a7080309-9382-4864-9684-f8a59c6aea4e.JPG)
+### Service robot Block Diagram  
+![image](https://user-images.githubusercontent.com/94602114/175318217-ec607ce4-3d4f-4d13-819b-c79d845eed28.png)
+
+### navigation node Block Diagram  
+![image](https://user-images.githubusercontent.com/94602114/175333138-0412e1da-08a6-404e-8b5b-cf6c49e9353e.png)  
 
 ## SLAM
 
