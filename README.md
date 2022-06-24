@@ -50,9 +50,9 @@
 * MoveBase Node
 * 
  
-## 수정 내역
+## [수정 내역](https://github.com/Jangseokcheon/pathfinding/blob/footer/README.md)
  
- * [V-8](https://github.com/Jangseokcheon/pathfinding/blob/footer/README.md)
+ * V-8
  
 ## 팀원
  
