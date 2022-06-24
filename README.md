@@ -24,9 +24,14 @@ using namespace std;
  map2.txt는 맵 파일(텍스트) 0은 길 1은 벽 2는 출발지 3은 도착지
  
  
- ##
- https://www.youtube.com/watch?v=Ot3r9NmQzZc
+ ## [turtlesim을 이용한 목표점 이동](https://www.youtube.com/watch?v=oIZxgC9VQF0)
  
+ ![sdfsdfds](https://user-images.githubusercontent.com/86651809/175451047-d2515a9f-b03b-4e22-9b5b-2f0e089ce413.PNG)
+ 
+ ## [gazebo simulation을 이용한 목표점 이동](https://www.youtube.com/watch?v=Ot3r9NmQzZc)
+ 
+ ![xvzxcvcx](https://user-images.githubusercontent.com/86651809/175450962-74705ad6-ceb8-457e-b061-0495cebf57c8.PNG)
+
 ## AMCL Node 알고리즘
 
 lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘 
