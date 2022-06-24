@@ -37,8 +37,9 @@ lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알
 목표값(goal)을 주면 로봇이 갈 길을 찾고 모터제어명령을 내리는 알고리즘
 
   - Global path plan & local plan  
+<center>
 ![image](https://user-images.githubusercontent.com/94602114/175328295-d821cbb6-3c05-4afa-8392-278c6792a0a8.png)
-
+center>
 ![asfasf](https://user-images.githubusercontent.com/86651809/175437941-27b0ee58-5659-4713-a80c-6807212487e2.PNG)
 
 
