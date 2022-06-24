@@ -2,7 +2,6 @@
 
 ## SLAM
 
-process1
 ## https://youtu.be/NXHmEm0RPJ4
 ![구동영상](https://user-images.githubusercontent.com/86651809/168182858-f9d4e4ed-2b60-4e79-9b6c-3dd1c67ca7b1.JPG)
 
@@ -25,3 +24,21 @@ using namespace std;
  
  map2.txt는 맵 파일(텍스트) 0은 길 1은 벽 2는 출발지 3은 도착지
  
+## AMCL Node 알고리즘
+
+lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘 
+
+  - 초기  
+![스크린샷, 2022-06-23 23-19-08](https://user-images.githubusercontent.com/94602114/175321758-4bb87b78-14c9-4028-9af3-bc452ef81cc8.png)
+  - amcl 알고리즘 후  
+![스크린샷, 2022-06-23 23-27-06](https://user-images.githubusercontent.com/94602114/175323423-8b2a0eca-ac7f-465e-9346-e68d694dab4e.png)
+
+## MoveBase Node 알고리즘
+
+목표값(goal)을 주면 로봇이 갈 길을 찾고 모터제어명령을 내리는 알고리즘
+
+  - Global path plan & local plan  
+![image](https://user-images.githubusercontent.com/94602114/175328295-d821cbb6-3c05-4afa-8392-278c6792a0a8.png)
+
+ - 구동 영상  
+ https://youtu.be/1NEKSqXpm4c
