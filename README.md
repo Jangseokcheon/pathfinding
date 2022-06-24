@@ -122,3 +122,11 @@
 
 * 깃에 블럭도 및 수정사항 기재 요청
 
+## v-6
+
+### 수정사항
+
+* IMU의 raw data 가져와 화면에 출력
+* github에 A* 알고리즘 관련 파일 협업 공간에 업로드
+
+https://user-images.githubusercontent.com/94602114/175331810-7e71c63e-b27f-4f9e-95c0-57893c6c037d.mp4
