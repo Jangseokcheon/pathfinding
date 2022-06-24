@@ -122,11 +122,30 @@
 
 * 깃에 블럭도 및 수정사항 기재 요청
 
-## v-6
+
+## v-7
 
 ### 수정사항
 
 * IMU의 raw data 가져와 화면에 출력
-* github에 A* 알고리즘 관련 파일 협업 공간에 업로드
 
 https://user-images.githubusercontent.com/94602114/175331810-7e71c63e-b27f-4f9e-95c0-57893c6c037d.mp4
+
+
+## v-8
+
+### 수정사항
+
+*  AMCL Node 알고리즘 (lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘)
+*  MoveBase Node 알고리즘 (목표값(goal)을 주면 로봇이 갈 길을 찾고 모터제어명령을 내리는 알고리즘)
+
+  - 초기  
+![스크린샷, 2022-06-23 23-19-08](https://user-images.githubusercontent.com/94602114/175321758-4bb87b78-14c9-4028-9af3-bc452ef81cc8.png)
+  - amcl 알고리즘 후  
+![스크린샷, 2022-06-23 23-27-06](https://user-images.githubusercontent.com/94602114/175323423-8b2a0eca-ac7f-465e-9346-e68d694dab4e.png)
+
+  - Global path plan & local plan  
+![image](https://user-images.githubusercontent.com/94602114/175328295-d821cbb6-3c05-4afa-8392-278c6792a0a8.png)
+
+ - 구동 영상  
+ https://youtu.be/1NEKSqXpm4c
